@@ -12,6 +12,7 @@ Emaily is a web app that gives its users the ability to send surveys to up to 20
 In order to run Emaily locally you first need to clone it either by using git or just downloading the zip folder.
 
 Once you have downloaded it you'll need to run ```npm install``` in the server directory and also in the client directory.
+Then run ```node index.js```
 
 
 
